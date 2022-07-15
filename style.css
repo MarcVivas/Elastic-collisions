@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Spinnaker&display=swap');
+body{
+    font-family: 'Spinnaker', sans-serif;
+    margin: 0;
+    background-color: rgb(186, 168, 255);
+    box-sizing: border-box;
+}
+.text-container{
+    margin: 30px;
+    
+}
+.p5Canvas{
+    display: block;
+    border-radius: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+
